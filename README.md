@@ -10,9 +10,9 @@
             </p>
         </li>
     </ul>
-    <ul>
-        <li><strong>TECNOLOGIAS UTILIZADAS</strong></li>
-    </ul>
+        <li>
+            <strong>TECNOLOGIAS UTILIZADAS</strong>
+    </li>
     <ul>
         <li>Somente HTML5 e CSS3 puros.</li>
     </ul>
