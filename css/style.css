@@ -1,0 +1,137 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.color-font a {
+  color: black;
+}
+
+header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header li {
+  margin-left: 15px;
+  -webkit-box-align: right;
+      -ms-flex-align: right;
+          align-items: right;
+}
+
+header img {
+  height: 75px;
+  width: 140px;
+  margin-left: 80px;
+}
+
+.cabecalho {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#pipe {
+  font-size: 1.7em;
+  padding: 10px;
+  margin-left: 35px;
+  margin-bottom: 7px;
+  font-weight: 400;
+}
+
+#sign {
+  margin-left: 140px;
+}
+
+#sign li {
+  margin: 12px;
+}
+
+#sign #download a {
+  color: #4b54bc;
+}
+
+#sign #btn-sign a {
+  color: white;
+}
+
+#btn-sign {
+  background-color: #4b54bc;
+  padding: 7px;
+  border-radius: 3px;
+  color: white;
+}
+
+#sub-header {
+  color: white;
+  background-color: #4b54bc;
+  padding: 12px;
+  text-align: center;
+}
+
+#sub-header a {
+  color: white;
+}
+
+#imagem-esquerda img {
+  width: 90%;
+  -webkit-box-align: right;
+      -ms-flex-align: right;
+          align-items: right;
+  margin-left: 74px;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#main-download-id {
+  margin-top: 20px;
+  margin-left: 90px;
+}
+
+#main-download-id h1 {
+  font-size: 3em;
+}
+
+#main-download-id h3 {
+  font-size: 1em;
+}
+
+#container2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 40px;
+  font-weight: 700;
+}
+
+#container2 #desktop {
+  margin-left: 3px;
+  margin-right: 10px;
+  color: white;
+  background-color: #4b54bc;
+  padding: 10px 30px;
+}
+
+#container2 #mobile {
+  margin-left: 50px;
+  border: 2px solid #4b54bc;
+  color: #4b54bc;
+  padding: 10px 30px;
+}
+/*# sourceMappingURL=style.css.map */
