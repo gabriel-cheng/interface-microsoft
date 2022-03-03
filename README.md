@@ -18,4 +18,4 @@
     </ul>
 </ul>
 
-<img style="display: flex; align-items: center;" src="https://c.s-microsoft.com/favicon.ico?v2">
+<img style="display: flex; background-color: red;" src="https://c.s-microsoft.com/favicon.ico?v2">
