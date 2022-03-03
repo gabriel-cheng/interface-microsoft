@@ -17,6 +17,4 @@
         <li>Somente HTML5 e CSS3 puros.</li>
     </ul>
 </ul>
-<center>
-    <img " src="https://c.s-microsoft.com/favicon.ico?v2">
-</center>
+<img " src="https://c.s-microsoft.com/favicon.ico?v2">
